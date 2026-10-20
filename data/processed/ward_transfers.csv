@@ -1,0 +1,21 @@
+from_ward,to_ward,total_transfers
+South Ward,East Ward,44
+North Ward,Central Ward,36
+South Ward,North Ward,35
+West Ward,South Ward,33
+Central Ward,East Ward,33
+East Ward,West Ward,33
+East Ward,South Ward,32
+Central Ward,South Ward,31
+North Ward,West Ward,31
+East Ward,North Ward,30
+West Ward,East Ward,29
+South Ward,West Ward,28
+North Ward,South Ward,28
+Central Ward,North Ward,28
+South Ward,Central Ward,28
+West Ward,Central Ward,27
+West Ward,North Ward,26
+North Ward,East Ward,26
+Central Ward,West Ward,22
+East Ward,Central Ward,20

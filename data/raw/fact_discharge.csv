@@ -1,0 +1,1001 @@
+discharge_id,admission_id,discharge_datetime,discharge_destination,delay_reason
+1,1,2026-02-15 05:00:00,Home,None recorded
+2,3,2026-02-15 20:00:00,Home,None recorded
+3,4,2026-01-27 13:00:00,Home,Awaiting care package
+4,5,2026-01-31 10:00:00,Home,Medication
+5,6,2026-01-23 03:00:00,Home,None recorded
+6,7,2026-03-15 04:00:00,Home,None recorded
+7,8,2026-03-02 19:00:00,Care facility,None recorded
+8,9,2026-01-29 02:00:00,Care facility,None recorded
+9,10,2026-02-22 04:00:00,Home,Transport
+10,11,2026-02-20 11:00:00,Home,None recorded
+11,12,2026-01-06 06:00:00,Home,Transport
+12,13,2026-04-05 18:00:00,Home,Transport
+13,16,2026-03-16 09:00:00,Home,None recorded
+14,17,2026-01-19 19:00:00,Home,Medication
+15,18,2026-04-02 22:00:00,Home,None recorded
+16,19,2026-03-09 15:00:00,Home,None recorded
+17,20,2026-04-09 10:00:00,Care facility,None recorded
+18,23,2026-02-05 22:00:00,Home,None recorded
+19,24,2026-03-08 17:00:00,Home,None recorded
+20,25,2026-02-22 02:00:00,Home,Other
+21,26,2026-02-20 20:00:00,Home,None recorded
+22,27,2026-03-07 00:00:00,Home,None recorded
+23,28,2026-03-25 23:00:00,Home,Awaiting care package
+24,29,2026-01-18 10:00:00,Home,Other
+25,30,2026-02-28 18:00:00,Home,None recorded
+26,31,2026-03-19 01:00:00,Another hospital,None recorded
+27,32,2026-02-01 07:00:00,Home,None recorded
+28,33,2026-02-14 18:00:00,Home,None recorded
+29,34,2026-01-09 20:00:00,Home,None recorded
+30,36,2026-02-26 18:00:00,Home,Transport
+31,37,2026-04-12 10:00:00,Home,None recorded
+32,38,2026-02-27 06:00:00,Care facility,None recorded
+33,39,2026-01-29 04:00:00,Care facility,Awaiting care package
+34,40,2026-03-27 01:00:00,Another hospital,None recorded
+35,42,2026-01-18 19:00:00,Home,None recorded
+36,43,2026-03-01 21:00:00,Home,Awaiting care package
+37,44,2026-03-21 09:00:00,Home,None recorded
+38,45,2026-01-25 02:00:00,Another hospital,None recorded
+39,46,2026-01-03 09:00:00,Home,None recorded
+40,47,2026-03-21 03:00:00,Home,None recorded
+41,48,2026-03-02 20:00:00,Care facility,Transport
+42,49,2026-03-12 17:00:00,Home,None recorded
+43,50,2026-02-17 17:00:00,Another hospital,None recorded
+44,51,2026-01-19 15:00:00,Home,None recorded
+45,52,2026-02-04 20:00:00,Care facility,None recorded
+46,53,2026-02-23 06:00:00,Home,Awaiting care package
+47,54,2026-02-16 23:00:00,Home,Other
+48,55,2026-03-26 00:00:00,Home,None recorded
+49,56,2026-02-02 02:00:00,Home,None recorded
+50,57,2026-02-10 01:00:00,Home,Awaiting care package
+51,58,2026-01-21 12:00:00,Another hospital,None recorded
+52,59,2026-03-03 08:00:00,Another hospital,None recorded
+53,60,2026-03-27 11:00:00,Another hospital,Other
+54,61,2026-04-02 11:00:00,Home,None recorded
+55,62,2026-01-24 11:00:00,Home,None recorded
+56,63,2026-02-20 16:00:00,Another hospital,None recorded
+57,64,2026-03-09 07:00:00,Home,None recorded
+58,66,2026-03-15 00:00:00,Home,None recorded
+59,67,2026-01-21 02:00:00,Home,None recorded
+60,68,2026-01-05 00:00:00,Care facility,Awaiting care package
+61,69,2026-01-22 04:00:00,Home,None recorded
+62,70,2026-03-26 07:00:00,Home,Other
+63,71,2026-03-15 06:00:00,Home,None recorded
+64,72,2026-03-26 01:00:00,Home,None recorded
+65,73,2026-03-13 02:00:00,Home,None recorded
+66,74,2026-03-22 15:00:00,Home,None recorded
+67,75,2026-02-15 16:00:00,Home,Transport
+68,76,2026-03-27 19:00:00,Home,None recorded
+69,77,2026-01-16 02:00:00,Home,None recorded
+70,78,2026-02-28 10:00:00,Home,None recorded
+71,79,2026-03-11 22:00:00,Another hospital,None recorded
+72,80,2026-04-08 09:00:00,Home,None recorded
+73,81,2026-02-15 07:00:00,Home,None recorded
+74,82,2026-01-30 02:00:00,Home,None recorded
+75,83,2026-03-08 19:00:00,Another hospital,Awaiting care package
+76,84,2026-01-18 12:00:00,Home,Awaiting care package
+77,85,2026-03-13 21:00:00,Home,None recorded
+78,86,2026-03-11 09:00:00,Home,None recorded
+79,87,2026-03-11 04:00:00,Home,None recorded
+80,89,2026-01-12 19:00:00,Home,None recorded
+81,90,2026-02-26 17:00:00,Another hospital,None recorded
+82,91,2026-02-15 15:00:00,Home,None recorded
+83,93,2026-01-26 21:00:00,Care facility,Other
+84,94,2026-02-12 00:00:00,Home,Awaiting care package
+85,95,2026-03-24 21:00:00,Home,None recorded
+86,97,2026-02-08 09:00:00,Home,None recorded
+87,98,2026-01-14 18:00:00,Home,None recorded
+88,100,2026-01-26 00:00:00,Home,None recorded
+89,101,2026-01-12 21:00:00,Home,None recorded
+90,102,2026-03-05 02:00:00,Home,None recorded
+91,103,2026-03-06 20:00:00,Home,None recorded
+92,104,2026-03-18 10:00:00,Care facility,None recorded
+93,105,2026-02-12 22:00:00,Home,Transport
+94,106,2026-03-19 21:00:00,Care facility,None recorded
+95,107,2026-01-18 06:00:00,Home,Other
+96,108,2026-01-24 19:00:00,Home,None recorded
+97,109,2026-03-27 10:00:00,Another hospital,None recorded
+98,110,2026-04-02 09:00:00,Home,None recorded
+99,111,2026-02-27 21:00:00,Care facility,None recorded
+100,112,2026-03-02 20:00:00,Home,None recorded
+101,114,2026-03-20 02:00:00,Home,None recorded
+102,115,2026-02-02 19:00:00,Home,None recorded
+103,116,2026-01-17 04:00:00,Home,None recorded
+104,117,2026-01-24 15:00:00,Home,None recorded
+105,118,2026-02-14 02:00:00,Home,Transport
+106,119,2026-01-23 05:00:00,Home,Transport
+107,120,2026-02-27 05:00:00,Home,Transport
+108,121,2026-01-19 10:00:00,Another hospital,Other
+109,124,2026-01-15 21:00:00,Home,None recorded
+110,125,2026-01-29 20:00:00,Home,Medication
+111,126,2026-02-20 11:00:00,Home,None recorded
+112,127,2026-01-16 23:00:00,Another hospital,None recorded
+113,128,2026-03-13 21:00:00,Care facility,Transport
+114,129,2026-03-22 19:00:00,Home,None recorded
+115,130,2026-02-06 13:00:00,Care facility,None recorded
+116,132,2026-02-26 01:00:00,Home,None recorded
+117,133,2026-03-22 05:00:00,Home,None recorded
+118,134,2026-02-07 07:00:00,Care facility,None recorded
+119,136,2026-03-28 08:00:00,Home,Awaiting care package
+120,137,2026-02-08 06:00:00,Home,None recorded
+121,138,2026-02-24 22:00:00,Home,None recorded
+122,139,2026-01-15 19:00:00,Another hospital,None recorded
+123,140,2026-02-26 14:00:00,Home,Medication
+124,141,2026-03-29 03:00:00,Home,Other
+125,142,2026-04-03 23:00:00,Home,Transport
+126,143,2026-01-28 23:00:00,Home,None recorded
+127,145,2026-01-15 22:00:00,Home,None recorded
+128,146,2026-02-01 04:00:00,Home,None recorded
+129,149,2026-02-12 06:00:00,Home,Awaiting care package
+130,150,2026-03-29 13:00:00,Home,None recorded
+131,152,2026-01-14 02:00:00,Another hospital,Awaiting care package
+132,153,2026-01-18 04:00:00,Care facility,None recorded
+133,154,2026-03-06 09:00:00,Home,Medication
+134,155,2026-03-31 21:00:00,Home,None recorded
+135,156,2026-01-19 02:00:00,Home,None recorded
+136,157,2026-02-22 10:00:00,Home,None recorded
+137,158,2026-03-28 11:00:00,Home,None recorded
+138,159,2026-04-02 14:00:00,Home,Medication
+139,160,2026-03-11 15:00:00,Home,None recorded
+140,161,2026-04-01 23:00:00,Home,Other
+141,163,2026-03-25 01:00:00,Home,None recorded
+142,164,2026-03-13 06:00:00,Home,None recorded
+143,165,2026-03-31 16:00:00,Care facility,None recorded
+144,166,2026-01-16 13:00:00,Home,None recorded
+145,168,2026-02-27 22:00:00,Home,Medication
+146,169,2026-03-07 09:00:00,Home,None recorded
+147,170,2026-03-31 07:00:00,Home,None recorded
+148,171,2026-03-16 01:00:00,Home,None recorded
+149,172,2026-02-02 21:00:00,Home,Awaiting care package
+150,173,2026-04-04 18:00:00,Home,Other
+151,174,2026-01-22 11:00:00,Home,Awaiting care package
+152,175,2026-01-20 13:00:00,Home,None recorded
+153,176,2026-03-20 18:00:00,Care facility,None recorded
+154,177,2026-04-11 16:00:00,Home,None recorded
+155,178,2026-02-16 05:00:00,Home,Other
+156,179,2026-01-23 03:00:00,Home,None recorded
+157,180,2026-01-10 06:00:00,Care facility,Other
+158,181,2026-04-06 03:00:00,Home,Awaiting care package
+159,182,2026-01-29 04:00:00,Home,Transport
+160,183,2026-03-09 12:00:00,Home,Awaiting care package
+161,184,2026-02-11 09:00:00,Another hospital,None recorded
+162,185,2026-01-26 07:00:00,Home,None recorded
+163,186,2026-03-12 02:00:00,Home,None recorded
+164,189,2026-02-20 16:00:00,Home,None recorded
+165,191,2026-03-06 05:00:00,Home,Awaiting care package
+166,192,2026-03-16 14:00:00,Home,None recorded
+167,193,2026-03-18 23:00:00,Home,Medication
+168,194,2026-02-01 01:00:00,Home,Medication
+169,195,2026-01-31 05:00:00,Home,None recorded
+170,196,2026-03-14 12:00:00,Home,None recorded
+171,197,2026-03-01 01:00:00,Care facility,None recorded
+172,199,2026-03-31 11:00:00,Home,None recorded
+173,200,2026-02-16 15:00:00,Care facility,Transport
+174,204,2026-03-18 14:00:00,Care facility,Awaiting care package
+175,205,2026-03-30 17:00:00,Home,Awaiting care package
+176,208,2026-01-28 05:00:00,Home,None recorded
+177,209,2026-02-22 02:00:00,Home,Medication
+178,210,2026-01-19 08:00:00,Home,Transport
+179,211,2026-03-15 02:00:00,Home,Other
+180,212,2026-02-17 14:00:00,Home,Awaiting care package
+181,213,2026-01-17 23:00:00,Home,Awaiting care package
+182,214,2026-02-22 04:00:00,Home,None recorded
+183,215,2026-03-11 16:00:00,Home,Awaiting care package
+184,216,2026-01-30 12:00:00,Care facility,None recorded
+185,218,2026-03-28 03:00:00,Home,None recorded
+186,219,2026-03-11 21:00:00,Home,None recorded
+187,221,2026-02-11 11:00:00,Home,None recorded
+188,222,2026-02-28 10:00:00,Home,None recorded
+189,223,2026-02-26 17:00:00,Another hospital,None recorded
+190,224,2026-02-14 12:00:00,Home,Awaiting care package
+191,225,2026-01-15 23:00:00,Care facility,Transport
+192,226,2026-01-16 16:00:00,Another hospital,Other
+193,227,2026-03-28 21:00:00,Home,Awaiting care package
+194,228,2026-03-03 07:00:00,Home,None recorded
+195,229,2026-02-25 22:00:00,Home,Awaiting care package
+196,230,2026-03-06 14:00:00,Home,None recorded
+197,232,2026-04-02 05:00:00,Another hospital,None recorded
+198,233,2026-02-16 07:00:00,Home,Other
+199,234,2026-02-23 02:00:00,Care facility,Other
+200,235,2026-02-21 19:00:00,Home,None recorded
+201,236,2026-01-26 03:00:00,Home,Awaiting care package
+202,237,2026-01-30 14:00:00,Home,None recorded
+203,238,2026-01-19 04:00:00,Home,Other
+204,239,2026-01-25 20:00:00,Home,Transport
+205,240,2026-01-19 09:00:00,Home,None recorded
+206,241,2026-01-23 04:00:00,Home,Awaiting care package
+207,243,2026-02-03 11:00:00,Another hospital,None recorded
+208,244,2026-03-27 09:00:00,Home,None recorded
+209,245,2026-02-14 09:00:00,Home,Awaiting care package
+210,246,2026-03-27 05:00:00,Home,Awaiting care package
+211,248,2026-03-25 15:00:00,Home,None recorded
+212,249,2026-02-06 22:00:00,Home,Awaiting care package
+213,250,2026-01-19 14:00:00,Home,None recorded
+214,251,2026-01-31 17:00:00,Home,None recorded
+215,252,2026-03-08 04:00:00,Home,Transport
+216,254,2026-03-12 09:00:00,Home,None recorded
+217,255,2026-04-06 09:00:00,Home,None recorded
+218,256,2026-02-02 05:00:00,Home,Other
+219,257,2026-02-14 23:00:00,Home,Awaiting care package
+220,258,2026-02-19 03:00:00,Home,None recorded
+221,259,2026-01-22 10:00:00,Home,None recorded
+222,260,2026-03-04 14:00:00,Home,Medication
+223,261,2026-01-18 09:00:00,Home,Medication
+224,262,2026-03-23 18:00:00,Home,None recorded
+225,263,2026-01-20 22:00:00,Another hospital,None recorded
+226,264,2026-01-19 22:00:00,Care facility,None recorded
+227,265,2026-01-29 14:00:00,Home,None recorded
+228,266,2026-03-27 07:00:00,Home,None recorded
+229,267,2026-04-01 12:00:00,Home,Transport
+230,268,2026-04-07 00:00:00,Home,Awaiting care package
+231,269,2026-03-23 23:00:00,Care facility,Medication
+232,271,2026-02-16 10:00:00,Home,None recorded
+233,272,2026-01-04 10:00:00,Home,None recorded
+234,273,2026-02-12 10:00:00,Home,None recorded
+235,274,2026-01-29 21:00:00,Home,None recorded
+236,275,2026-02-06 00:00:00,Home,None recorded
+237,276,2026-03-12 05:00:00,Home,Other
+238,278,2026-02-12 22:00:00,Another hospital,None recorded
+239,279,2026-02-16 08:00:00,Home,Awaiting care package
+240,281,2026-03-15 02:00:00,Another hospital,None recorded
+241,282,2026-03-21 15:00:00,Home,None recorded
+242,283,2026-03-05 06:00:00,Another hospital,Medication
+243,284,2026-01-16 13:00:00,Another hospital,Other
+244,285,2026-03-15 20:00:00,Home,None recorded
+245,286,2026-02-19 03:00:00,Care facility,Medication
+246,287,2026-01-31 23:00:00,Home,None recorded
+247,288,2026-04-09 06:00:00,Home,Awaiting care package
+248,290,2026-02-12 14:00:00,Home,None recorded
+249,291,2026-02-21 21:00:00,Home,None recorded
+250,292,2026-03-31 01:00:00,Home,Awaiting care package
+251,293,2026-02-01 04:00:00,Home,Awaiting care package
+252,295,2026-03-05 08:00:00,Another hospital,Medication
+253,297,2026-02-03 09:00:00,Care facility,None recorded
+254,298,2026-01-22 15:00:00,Home,Medication
+255,299,2026-01-28 00:00:00,Home,None recorded
+256,300,2026-02-03 05:00:00,Home,None recorded
+257,301,2026-03-25 08:00:00,Home,None recorded
+258,302,2026-02-06 07:00:00,Another hospital,None recorded
+259,303,2026-01-17 12:00:00,Another hospital,None recorded
+260,304,2026-04-01 04:00:00,Home,Transport
+261,305,2026-02-02 15:00:00,Home,None recorded
+262,306,2026-04-02 19:00:00,Home,None recorded
+263,307,2026-01-14 19:00:00,Home,None recorded
+264,308,2026-01-07 23:00:00,Home,Transport
+265,309,2026-03-27 22:00:00,Home,None recorded
+266,310,2026-01-15 20:00:00,Home,None recorded
+267,311,2026-01-11 18:00:00,Home,Transport
+268,312,2026-03-04 21:00:00,Care facility,Other
+269,313,2026-02-09 13:00:00,Home,Other
+270,314,2026-02-20 15:00:00,Home,None recorded
+271,315,2026-02-17 18:00:00,Home,Other
+272,317,2026-02-20 07:00:00,Care facility,Transport
+273,319,2026-01-27 05:00:00,Home,Medication
+274,320,2026-01-29 05:00:00,Care facility,None recorded
+275,321,2026-01-21 15:00:00,Home,None recorded
+276,322,2026-02-24 06:00:00,Another hospital,None recorded
+277,323,2026-03-04 08:00:00,Home,Awaiting care package
+278,324,2026-01-10 13:00:00,Care facility,None recorded
+279,325,2026-02-16 08:00:00,Home,None recorded
+280,326,2026-03-09 11:00:00,Care facility,None recorded
+281,327,2026-01-07 02:00:00,Home,Other
+282,328,2026-01-29 00:00:00,Home,None recorded
+283,329,2026-03-29 11:00:00,Home,Awaiting care package
+284,330,2026-02-14 09:00:00,Home,None recorded
+285,332,2026-02-22 10:00:00,Home,Medication
+286,333,2026-02-19 23:00:00,Home,None recorded
+287,334,2026-01-31 00:00:00,Home,None recorded
+288,335,2026-01-19 14:00:00,Care facility,None recorded
+289,336,2026-03-29 12:00:00,Home,None recorded
+290,337,2026-03-17 03:00:00,Home,Transport
+291,339,2026-01-14 14:00:00,Another hospital,Transport
+292,340,2026-03-27 07:00:00,Home,None recorded
+293,341,2026-02-19 14:00:00,Home,None recorded
+294,342,2026-02-21 18:00:00,Home,None recorded
+295,343,2026-03-23 23:00:00,Home,None recorded
+296,345,2026-01-29 06:00:00,Home,Medication
+297,347,2026-04-03 10:00:00,Home,Transport
+298,348,2026-03-01 00:00:00,Care facility,None recorded
+299,349,2026-03-02 02:00:00,Home,None recorded
+300,350,2026-03-09 09:00:00,Home,Awaiting care package
+301,351,2026-02-03 20:00:00,Home,Awaiting care package
+302,352,2026-02-09 19:00:00,Home,Other
+303,353,2026-03-29 15:00:00,Home,None recorded
+304,354,2026-01-22 02:00:00,Home,None recorded
+305,355,2026-04-08 14:00:00,Another hospital,None recorded
+306,356,2026-02-02 13:00:00,Home,Awaiting care package
+307,357,2026-01-31 14:00:00,Home,None recorded
+308,358,2026-01-10 06:00:00,Home,Transport
+309,359,2026-03-15 17:00:00,Home,None recorded
+310,360,2026-02-01 17:00:00,Home,Awaiting care package
+311,361,2026-02-18 08:00:00,Home,None recorded
+312,362,2026-03-03 06:00:00,Home,Medication
+313,363,2026-03-05 01:00:00,Home,None recorded
+314,364,2026-03-29 00:00:00,Home,Awaiting care package
+315,365,2026-03-02 00:00:00,Home,None recorded
+316,366,2026-01-28 00:00:00,Home,Transport
+317,367,2026-03-15 07:00:00,Home,Awaiting care package
+318,368,2026-01-15 23:00:00,Home,None recorded
+319,369,2026-03-27 22:00:00,Home,None recorded
+320,370,2026-02-01 16:00:00,Home,None recorded
+321,371,2026-03-08 00:00:00,Home,None recorded
+322,372,2026-01-29 02:00:00,Home,Transport
+323,373,2026-02-09 14:00:00,Home,None recorded
+324,374,2026-03-16 14:00:00,Another hospital,None recorded
+325,375,2026-03-05 22:00:00,Care facility,None recorded
+326,376,2026-01-09 12:00:00,Home,None recorded
+327,377,2026-01-05 02:00:00,Home,None recorded
+328,378,2026-04-13 06:00:00,Home,Transport
+329,381,2026-01-15 13:00:00,Home,None recorded
+330,382,2026-02-26 03:00:00,Home,Other
+331,383,2026-03-04 20:00:00,Home,Awaiting care package
+332,384,2026-03-26 21:00:00,Home,None recorded
+333,387,2026-02-10 09:00:00,Home,Medication
+334,389,2026-02-08 11:00:00,Home,Transport
+335,390,2026-01-29 01:00:00,Home,None recorded
+336,391,2026-03-16 03:00:00,Home,None recorded
+337,394,2026-01-26 05:00:00,Home,Transport
+338,395,2026-03-25 09:00:00,Home,None recorded
+339,396,2026-02-06 19:00:00,Home,None recorded
+340,397,2026-02-03 23:00:00,Another hospital,None recorded
+341,399,2026-03-31 11:00:00,Home,None recorded
+342,400,2026-02-10 08:00:00,Home,Transport
+343,404,2026-01-18 08:00:00,Home,None recorded
+344,405,2026-01-23 10:00:00,Home,None recorded
+345,406,2026-01-20 09:00:00,Home,Awaiting care package
+346,408,2026-02-08 23:00:00,Home,None recorded
+347,409,2026-02-15 04:00:00,Another hospital,None recorded
+348,410,2026-02-19 21:00:00,Home,None recorded
+349,411,2026-01-14 04:00:00,Home,Other
+350,412,2026-02-24 19:00:00,Home,Transport
+351,413,2026-03-31 02:00:00,Home,None recorded
+352,414,2026-03-16 05:00:00,Home,Medication
+353,415,2026-02-04 13:00:00,Care facility,Transport
+354,416,2026-01-07 04:00:00,Home,Awaiting care package
+355,417,2026-03-18 14:00:00,Home,Transport
+356,418,2026-03-27 16:00:00,Home,Medication
+357,420,2026-03-04 22:00:00,Home,Transport
+358,421,2026-02-14 14:00:00,Another hospital,None recorded
+359,422,2026-03-21 01:00:00,Home,None recorded
+360,423,2026-03-10 03:00:00,Home,None recorded
+361,424,2026-03-16 03:00:00,Home,None recorded
+362,425,2026-01-28 14:00:00,Home,Other
+363,426,2026-04-03 06:00:00,Home,Awaiting care package
+364,427,2026-01-11 08:00:00,Home,Awaiting care package
+365,428,2026-01-11 09:00:00,Home,Transport
+366,429,2026-03-02 22:00:00,Home,Medication
+367,430,2026-03-04 10:00:00,Home,Awaiting care package
+368,431,2026-02-21 20:00:00,Home,None recorded
+369,432,2026-03-31 19:00:00,Another hospital,None recorded
+370,433,2026-03-30 09:00:00,Home,None recorded
+371,434,2026-03-19 17:00:00,Home,None recorded
+372,435,2026-01-18 19:00:00,Another hospital,None recorded
+373,436,2026-01-14 16:00:00,Care facility,None recorded
+374,437,2026-01-16 13:00:00,Home,None recorded
+375,438,2026-03-10 06:00:00,Home,None recorded
+376,439,2026-03-15 03:00:00,Care facility,Medication
+377,440,2026-03-27 23:00:00,Home,None recorded
+378,441,2026-01-11 06:00:00,Home,Awaiting care package
+379,443,2026-02-10 10:00:00,Home,None recorded
+380,444,2026-02-27 22:00:00,Care facility,Other
+381,445,2026-01-07 04:00:00,Home,Awaiting care package
+382,446,2026-03-24 15:00:00,Home,Medication
+383,447,2026-01-14 06:00:00,Another hospital,None recorded
+384,448,2026-02-23 03:00:00,Home,Transport
+385,449,2026-03-26 23:00:00,Home,None recorded
+386,450,2026-01-26 11:00:00,Home,None recorded
+387,451,2026-03-08 20:00:00,Home,Awaiting care package
+388,452,2026-03-05 11:00:00,Home,None recorded
+389,453,2026-03-27 18:00:00,Home,None recorded
+390,454,2026-03-01 22:00:00,Home,Medication
+391,455,2026-03-29 08:00:00,Care facility,None recorded
+392,457,2026-01-24 18:00:00,Home,Awaiting care package
+393,458,2026-03-10 03:00:00,Home,None recorded
+394,459,2026-04-11 02:00:00,Home,None recorded
+395,461,2026-03-24 19:00:00,Home,None recorded
+396,462,2026-03-27 23:00:00,Home,None recorded
+397,463,2026-03-08 02:00:00,Home,Awaiting care package
+398,465,2026-03-03 16:00:00,Home,Medication
+399,466,2026-03-25 10:00:00,Home,None recorded
+400,468,2026-02-25 08:00:00,Home,None recorded
+401,469,2026-01-11 00:00:00,Home,Awaiting care package
+402,470,2026-01-27 16:00:00,Home,None recorded
+403,471,2026-03-01 02:00:00,Home,None recorded
+404,472,2026-03-21 04:00:00,Another hospital,None recorded
+405,474,2026-01-20 04:00:00,Home,Awaiting care package
+406,476,2026-02-17 13:00:00,Home,None recorded
+407,477,2026-02-14 04:00:00,Care facility,None recorded
+408,478,2026-01-18 18:00:00,Home,Other
+409,479,2026-03-26 10:00:00,Another hospital,Other
+410,480,2026-02-24 13:00:00,Home,Transport
+411,481,2026-01-05 21:00:00,Another hospital,Transport
+412,482,2026-03-12 17:00:00,Care facility,Other
+413,483,2026-04-06 00:00:00,Care facility,Transport
+414,484,2026-02-14 17:00:00,Home,Awaiting care package
+415,486,2026-02-21 12:00:00,Care facility,None recorded
+416,487,2026-01-11 23:00:00,Home,None recorded
+417,488,2026-01-24 01:00:00,Home,Awaiting care package
+418,490,2026-01-29 03:00:00,Home,Transport
+419,491,2026-02-16 15:00:00,Home,None recorded
+420,492,2026-02-23 23:00:00,Another hospital,Transport
+421,494,2026-03-29 17:00:00,Home,Awaiting care package
+422,495,2026-01-11 01:00:00,Home,None recorded
+423,496,2026-03-28 19:00:00,Home,Awaiting care package
+424,497,2026-02-04 12:00:00,Home,None recorded
+425,498,2026-03-29 19:00:00,Home,Transport
+426,499,2026-01-18 03:00:00,Home,Other
+427,500,2026-01-12 00:00:00,Home,Medication
+428,501,2026-01-15 22:00:00,Home,Medication
+429,502,2026-02-04 15:00:00,Home,Transport
+430,504,2026-02-16 15:00:00,Home,None recorded
+431,505,2026-01-21 20:00:00,Home,Transport
+432,506,2026-03-03 18:00:00,Home,None recorded
+433,507,2026-02-20 17:00:00,Another hospital,None recorded
+434,508,2026-03-12 06:00:00,Another hospital,None recorded
+435,510,2026-03-15 17:00:00,Care facility,None recorded
+436,512,2026-02-28 15:00:00,Care facility,None recorded
+437,513,2026-03-11 18:00:00,Home,None recorded
+438,514,2026-03-05 02:00:00,Home,None recorded
+439,515,2026-03-30 12:00:00,Care facility,None recorded
+440,516,2026-04-04 10:00:00,Home,None recorded
+441,517,2026-03-27 01:00:00,Care facility,None recorded
+442,518,2026-01-27 14:00:00,Home,Medication
+443,519,2026-02-21 14:00:00,Care facility,None recorded
+444,520,2026-03-23 08:00:00,Home,Awaiting care package
+445,522,2026-03-07 01:00:00,Care facility,None recorded
+446,523,2026-02-01 10:00:00,Home,Medication
+447,524,2026-01-20 14:00:00,Home,Awaiting care package
+448,526,2026-04-04 09:00:00,Another hospital,Other
+449,527,2026-04-10 13:00:00,Home,Medication
+450,528,2026-03-26 23:00:00,Home,Transport
+451,529,2026-02-03 09:00:00,Home,None recorded
+452,530,2026-03-13 03:00:00,Home,None recorded
+453,531,2026-02-03 15:00:00,Home,None recorded
+454,532,2026-01-14 09:00:00,Home,Medication
+455,533,2026-02-07 06:00:00,Home,Medication
+456,534,2026-01-27 13:00:00,Home,None recorded
+457,535,2026-03-10 15:00:00,Care facility,Transport
+458,536,2026-03-14 11:00:00,Home,None recorded
+459,537,2026-01-05 05:00:00,Home,Transport
+460,538,2026-01-24 15:00:00,Home,Transport
+461,539,2026-02-21 02:00:00,Home,None recorded
+462,540,2026-01-16 04:00:00,Care facility,Medication
+463,542,2026-02-16 00:00:00,Home,None recorded
+464,543,2026-02-15 03:00:00,Home,Awaiting care package
+465,544,2026-01-07 11:00:00,Home,Transport
+466,545,2026-03-10 03:00:00,Care facility,None recorded
+467,546,2026-03-08 22:00:00,Home,None recorded
+468,547,2026-03-23 01:00:00,Home,None recorded
+469,548,2026-02-28 14:00:00,Home,None recorded
+470,549,2026-01-30 06:00:00,Another hospital,Medication
+471,550,2026-01-19 00:00:00,Home,None recorded
+472,552,2026-02-28 22:00:00,Home,None recorded
+473,553,2026-01-13 11:00:00,Care facility,None recorded
+474,554,2026-01-08 20:00:00,Home,None recorded
+475,555,2026-01-24 12:00:00,Home,None recorded
+476,556,2026-01-09 08:00:00,Home,Transport
+477,558,2026-02-25 16:00:00,Another hospital,None recorded
+478,559,2026-03-12 01:00:00,Home,Medication
+479,560,2026-02-26 23:00:00,Home,None recorded
+480,561,2026-01-17 05:00:00,Another hospital,Transport
+481,562,2026-02-02 12:00:00,Home,None recorded
+482,567,2026-04-04 04:00:00,Home,None recorded
+483,568,2026-02-25 19:00:00,Home,None recorded
+484,569,2026-03-24 20:00:00,Home,Awaiting care package
+485,570,2026-02-02 11:00:00,Home,Other
+486,571,2026-04-03 18:00:00,Home,None recorded
+487,572,2026-03-11 08:00:00,Care facility,None recorded
+488,573,2026-02-24 09:00:00,Home,Transport
+489,574,2026-03-06 03:00:00,Care facility,None recorded
+490,575,2026-03-10 02:00:00,Home,Awaiting care package
+491,576,2026-01-19 09:00:00,Home,None recorded
+492,577,2026-01-24 15:00:00,Home,Medication
+493,579,2026-02-13 16:00:00,Home,None recorded
+494,580,2026-03-24 13:00:00,Home,None recorded
+495,581,2026-02-25 07:00:00,Home,Awaiting care package
+496,582,2026-01-17 22:00:00,Home,None recorded
+497,583,2026-03-08 19:00:00,Home,Awaiting care package
+498,584,2026-03-04 21:00:00,Home,Awaiting care package
+499,585,2026-02-03 19:00:00,Care facility,None recorded
+500,586,2026-03-14 03:00:00,Home,None recorded
+501,587,2026-02-11 13:00:00,Home,None recorded
+502,588,2026-01-14 07:00:00,Home,None recorded
+503,589,2026-01-17 21:00:00,Home,Transport
+504,590,2026-03-29 03:00:00,Home,Transport
+505,591,2026-02-12 20:00:00,Home,None recorded
+506,592,2026-02-21 07:00:00,Home,Awaiting care package
+507,594,2026-03-19 09:00:00,Home,Awaiting care package
+508,595,2026-03-05 11:00:00,Another hospital,Transport
+509,596,2026-04-03 21:00:00,Home,None recorded
+510,597,2026-03-30 12:00:00,Home,None recorded
+511,598,2026-04-03 01:00:00,Another hospital,None recorded
+512,599,2026-02-06 14:00:00,Home,Awaiting care package
+513,600,2026-03-08 13:00:00,Home,Awaiting care package
+514,602,2026-03-16 09:00:00,Home,Medication
+515,603,2026-03-14 08:00:00,Care facility,None recorded
+516,604,2026-01-28 15:00:00,Home,Awaiting care package
+517,605,2026-04-01 08:00:00,Home,Medication
+518,606,2026-01-29 02:00:00,Home,None recorded
+519,607,2026-04-13 11:00:00,Home,None recorded
+520,608,2026-03-28 13:00:00,Another hospital,None recorded
+521,610,2026-02-17 20:00:00,Another hospital,Transport
+522,611,2026-02-09 22:00:00,Home,None recorded
+523,612,2026-03-26 00:00:00,Home,None recorded
+524,614,2026-01-10 13:00:00,Home,None recorded
+525,615,2026-03-18 15:00:00,Home,Awaiting care package
+526,616,2026-01-27 15:00:00,Home,Medication
+527,617,2026-02-17 06:00:00,Home,Awaiting care package
+528,618,2026-01-20 07:00:00,Care facility,Medication
+529,619,2026-01-18 04:00:00,Another hospital,Transport
+530,620,2026-03-02 10:00:00,Home,Awaiting care package
+531,621,2026-01-21 14:00:00,Home,None recorded
+532,622,2026-01-20 05:00:00,Care facility,Medication
+533,623,2026-03-26 17:00:00,Home,Medication
+534,624,2026-02-14 22:00:00,Home,Transport
+535,625,2026-03-13 08:00:00,Home,None recorded
+536,626,2026-04-13 18:00:00,Care facility,None recorded
+537,627,2026-01-16 13:00:00,Home,None recorded
+538,629,2026-01-15 20:00:00,Home,None recorded
+539,630,2026-03-17 10:00:00,Home,None recorded
+540,631,2026-02-03 12:00:00,Home,None recorded
+541,632,2026-01-21 03:00:00,Home,None recorded
+542,634,2026-02-12 19:00:00,Home,Medication
+543,635,2026-03-11 16:00:00,Home,Transport
+544,636,2026-03-04 06:00:00,Home,Medication
+545,637,2026-03-16 13:00:00,Home,None recorded
+546,638,2026-01-16 22:00:00,Care facility,None recorded
+547,639,2026-04-11 18:00:00,Home,None recorded
+548,644,2026-01-09 09:00:00,Home,Medication
+549,645,2026-02-18 07:00:00,Home,None recorded
+550,650,2026-01-26 00:00:00,Home,Transport
+551,651,2026-02-07 15:00:00,Home,None recorded
+552,652,2026-01-28 14:00:00,Home,None recorded
+553,653,2026-03-10 09:00:00,Home,None recorded
+554,654,2026-04-07 19:00:00,Home,None recorded
+555,655,2026-01-18 00:00:00,Another hospital,None recorded
+556,656,2026-03-06 08:00:00,Care facility,Medication
+557,657,2026-01-30 08:00:00,Home,None recorded
+558,658,2026-03-18 13:00:00,Another hospital,None recorded
+559,659,2026-01-26 12:00:00,Home,None recorded
+560,661,2026-01-24 12:00:00,Home,Other
+561,662,2026-04-02 14:00:00,Home,Transport
+562,663,2026-01-17 10:00:00,Care facility,Transport
+563,665,2026-01-12 20:00:00,Home,None recorded
+564,666,2026-03-06 23:00:00,Another hospital,Medication
+565,667,2026-03-14 02:00:00,Home,None recorded
+566,668,2026-03-17 17:00:00,Home,Awaiting care package
+567,669,2026-01-18 00:00:00,Home,Awaiting care package
+568,670,2026-03-22 15:00:00,Care facility,None recorded
+569,671,2026-02-06 17:00:00,Care facility,None recorded
+570,672,2026-03-04 08:00:00,Home,None recorded
+571,673,2026-04-10 17:00:00,Home,None recorded
+572,674,2026-01-16 16:00:00,Home,None recorded
+573,675,2026-02-03 15:00:00,Another hospital,None recorded
+574,676,2026-04-03 00:00:00,Home,None recorded
+575,677,2026-01-16 17:00:00,Home,Transport
+576,678,2026-01-29 11:00:00,Home,None recorded
+577,679,2026-02-21 10:00:00,Home,Transport
+578,680,2026-04-09 15:00:00,Home,None recorded
+579,681,2026-02-09 12:00:00,Another hospital,None recorded
+580,683,2026-03-21 14:00:00,Home,None recorded
+581,685,2026-02-12 11:00:00,Home,Medication
+582,686,2026-02-12 10:00:00,Home,None recorded
+583,688,2026-03-06 14:00:00,Home,Transport
+584,689,2026-01-23 22:00:00,Home,Awaiting care package
+585,690,2026-02-08 05:00:00,Home,Transport
+586,691,2026-03-29 12:00:00,Home,None recorded
+587,692,2026-03-25 13:00:00,Home,None recorded
+588,693,2026-04-10 01:00:00,Home,None recorded
+589,694,2026-03-08 09:00:00,Home,Awaiting care package
+590,695,2026-03-04 09:00:00,Another hospital,Awaiting care package
+591,696,2026-01-23 05:00:00,Home,Transport
+592,697,2026-01-23 07:00:00,Home,None recorded
+593,698,2026-03-01 11:00:00,Another hospital,Awaiting care package
+594,701,2026-01-07 20:00:00,Another hospital,Transport
+595,702,2026-03-25 05:00:00,Home,Other
+596,704,2026-02-11 13:00:00,Home,Awaiting care package
+597,705,2026-02-13 01:00:00,Home,None recorded
+598,706,2026-04-08 04:00:00,Home,Transport
+599,707,2026-03-15 20:00:00,Home,Transport
+600,708,2026-01-14 05:00:00,Home,None recorded
+601,709,2026-03-24 18:00:00,Home,None recorded
+602,712,2026-03-26 09:00:00,Home,None recorded
+603,713,2026-01-17 01:00:00,Home,None recorded
+604,714,2026-02-22 06:00:00,Home,Awaiting care package
+605,715,2026-01-28 14:00:00,Home,None recorded
+606,716,2026-01-09 23:00:00,Home,Awaiting care package
+607,717,2026-03-06 08:00:00,Home,None recorded
+608,718,2026-03-12 19:00:00,Home,Awaiting care package
+609,719,2026-02-22 04:00:00,Home,Awaiting care package
+610,721,2026-02-26 05:00:00,Care facility,Awaiting care package
+611,722,2026-01-17 15:00:00,Another hospital,None recorded
+612,723,2026-01-17 11:00:00,Home,Other
+613,724,2026-01-21 03:00:00,Care facility,None recorded
+614,725,2026-01-15 21:00:00,Home,Awaiting care package
+615,727,2026-03-08 18:00:00,Home,None recorded
+616,728,2026-01-19 20:00:00,Home,None recorded
+617,729,2026-02-26 06:00:00,Home,Transport
+618,731,2026-01-25 00:00:00,Home,None recorded
+619,732,2026-04-04 08:00:00,Home,None recorded
+620,733,2026-04-05 09:00:00,Care facility,None recorded
+621,734,2026-03-18 07:00:00,Care facility,None recorded
+622,735,2026-03-27 18:00:00,Another hospital,Other
+623,736,2026-02-27 05:00:00,Home,Transport
+624,737,2026-03-20 08:00:00,Another hospital,None recorded
+625,738,2026-02-18 13:00:00,Home,Awaiting care package
+626,739,2026-01-22 22:00:00,Home,Transport
+627,740,2026-01-25 01:00:00,Home,Awaiting care package
+628,741,2026-03-28 20:00:00,Care facility,None recorded
+629,742,2026-02-21 04:00:00,Home,None recorded
+630,744,2026-01-25 00:00:00,Home,None recorded
+631,745,2026-02-17 07:00:00,Another hospital,Awaiting care package
+632,746,2026-01-10 12:00:00,Home,Awaiting care package
+633,747,2026-01-24 20:00:00,Home,Awaiting care package
+634,750,2026-03-02 14:00:00,Home,None recorded
+635,751,2026-01-15 11:00:00,Home,Awaiting care package
+636,753,2026-03-15 04:00:00,Home,None recorded
+637,754,2026-01-27 10:00:00,Home,Transport
+638,755,2026-03-06 00:00:00,Home,None recorded
+639,756,2026-03-22 01:00:00,Home,Awaiting care package
+640,757,2026-03-13 04:00:00,Home,Other
+641,758,2026-01-20 23:00:00,Home,None recorded
+642,759,2026-01-18 06:00:00,Home,Awaiting care package
+643,760,2026-03-18 12:00:00,Home,Transport
+644,761,2026-02-08 04:00:00,Home,None recorded
+645,762,2026-02-08 12:00:00,Home,None recorded
+646,763,2026-02-16 21:00:00,Home,Awaiting care package
+647,765,2026-02-15 10:00:00,Another hospital,None recorded
+648,766,2026-01-04 02:00:00,Home,None recorded
+649,768,2026-01-06 00:00:00,Home,Medication
+650,769,2026-02-01 20:00:00,Home,None recorded
+651,771,2026-04-11 11:00:00,Home,Awaiting care package
+652,772,2026-02-22 18:00:00,Home,Transport
+653,773,2026-01-05 10:00:00,Another hospital,None recorded
+654,774,2026-01-13 10:00:00,Home,Awaiting care package
+655,775,2026-03-26 08:00:00,Home,None recorded
+656,778,2026-02-21 13:00:00,Home,None recorded
+657,781,2026-03-27 05:00:00,Home,Transport
+658,782,2026-03-05 04:00:00,Home,Other
+659,783,2026-02-11 09:00:00,Home,None recorded
+660,784,2026-02-24 14:00:00,Home,Other
+661,785,2026-02-08 10:00:00,Home,Awaiting care package
+662,786,2026-03-08 06:00:00,Care facility,None recorded
+663,787,2026-03-23 07:00:00,Home,None recorded
+664,788,2026-03-19 22:00:00,Home,None recorded
+665,789,2026-04-06 01:00:00,Home,Transport
+666,790,2026-02-19 03:00:00,Home,None recorded
+667,791,2026-03-23 04:00:00,Home,None recorded
+668,793,2026-01-14 14:00:00,Home,None recorded
+669,794,2026-02-22 17:00:00,Home,Other
+670,797,2026-01-14 00:00:00,Care facility,None recorded
+671,798,2026-03-07 00:00:00,Home,None recorded
+672,799,2026-02-16 13:00:00,Home,None recorded
+673,800,2026-03-01 13:00:00,Home,None recorded
+674,801,2026-01-11 02:00:00,Home,None recorded
+675,802,2026-01-10 00:00:00,Home,Awaiting care package
+676,803,2026-03-03 06:00:00,Home,Transport
+677,804,2026-04-04 10:00:00,Home,None recorded
+678,807,2026-03-29 06:00:00,Home,Awaiting care package
+679,808,2026-02-02 07:00:00,Home,None recorded
+680,809,2026-01-15 05:00:00,Home,Awaiting care package
+681,810,2026-02-26 06:00:00,Home,None recorded
+682,811,2026-03-04 20:00:00,Care facility,Medication
+683,812,2026-03-20 08:00:00,Another hospital,Other
+684,813,2026-03-02 21:00:00,Home,Awaiting care package
+685,814,2026-03-29 20:00:00,Home,None recorded
+686,815,2026-03-20 22:00:00,Home,None recorded
+687,817,2026-03-05 14:00:00,Home,Awaiting care package
+688,818,2026-01-05 16:00:00,Home,None recorded
+689,819,2026-03-25 06:00:00,Care facility,None recorded
+690,821,2026-03-24 15:00:00,Home,None recorded
+691,822,2026-01-15 09:00:00,Home,None recorded
+692,823,2026-01-28 03:00:00,Home,None recorded
+693,824,2026-03-05 09:00:00,Home,None recorded
+694,825,2026-02-17 00:00:00,Home,Transport
+695,826,2026-03-03 20:00:00,Home,None recorded
+696,827,2026-02-12 02:00:00,Home,None recorded
+697,828,2026-02-28 15:00:00,Home,None recorded
+698,829,2026-03-11 06:00:00,Home,Other
+699,830,2026-02-01 00:00:00,Home,None recorded
+700,831,2026-03-21 10:00:00,Care facility,Transport
+701,833,2026-03-07 19:00:00,Home,Awaiting care package
+702,834,2026-03-05 14:00:00,Home,Transport
+703,835,2026-03-18 00:00:00,Care facility,None recorded
+704,837,2026-01-15 14:00:00,Home,Transport
+705,838,2026-01-25 08:00:00,Home,None recorded
+706,839,2026-03-29 22:00:00,Care facility,None recorded
+707,840,2026-01-25 00:00:00,Home,None recorded
+708,842,2026-03-28 05:00:00,Another hospital,Medication
+709,843,2026-02-04 05:00:00,Home,None recorded
+710,844,2026-02-20 19:00:00,Home,None recorded
+711,845,2026-02-09 08:00:00,Home,Transport
+712,846,2026-03-06 11:00:00,Home,None recorded
+713,847,2026-03-05 12:00:00,Home,None recorded
+714,848,2026-03-01 08:00:00,Home,Medication
+715,849,2026-02-19 03:00:00,Home,Awaiting care package
+716,850,2026-03-25 01:00:00,Home,Transport
+717,851,2026-02-28 07:00:00,Home,None recorded
+718,852,2026-02-19 18:00:00,Home,None recorded
+719,853,2026-03-27 20:00:00,Home,None recorded
+720,854,2026-01-11 09:00:00,Home,Transport
+721,856,2026-01-26 19:00:00,Home,None recorded
+722,858,2026-01-04 04:00:00,Home,None recorded
+723,859,2026-02-28 10:00:00,Home,None recorded
+724,860,2026-03-29 20:00:00,Another hospital,None recorded
+725,862,2026-03-04 16:00:00,Another hospital,None recorded
+726,863,2026-02-09 08:00:00,Home,None recorded
+727,865,2026-04-11 21:00:00,Home,None recorded
+728,866,2026-03-19 08:00:00,Care facility,None recorded
+729,867,2026-02-14 15:00:00,Home,None recorded
+730,868,2026-03-18 04:00:00,Home,None recorded
+731,869,2026-01-08 10:00:00,Home,None recorded
+732,870,2026-04-13 19:00:00,Home,Awaiting care package
+733,873,2026-03-05 20:00:00,Home,None recorded
+734,874,2026-02-04 16:00:00,Home,None recorded
+735,875,2026-02-09 19:00:00,Home,None recorded
+736,876,2026-01-12 03:00:00,Home,None recorded
+737,877,2026-02-03 11:00:00,Home,None recorded
+738,878,2026-02-25 01:00:00,Home,None recorded
+739,880,2026-03-24 08:00:00,Care facility,None recorded
+740,881,2026-03-30 18:00:00,Home,Awaiting care package
+741,882,2026-02-26 12:00:00,Home,Medication
+742,883,2026-02-02 16:00:00,Home,None recorded
+743,885,2026-02-21 04:00:00,Home,None recorded
+744,886,2026-03-10 18:00:00,Home,Other
+745,887,2026-01-23 09:00:00,Home,None recorded
+746,888,2026-02-22 07:00:00,Home,Other
+747,889,2026-02-17 15:00:00,Care facility,Awaiting care package
+748,890,2026-02-08 19:00:00,Home,None recorded
+749,891,2026-02-04 09:00:00,Home,None recorded
+750,893,2026-02-19 22:00:00,Care facility,None recorded
+751,894,2026-02-23 21:00:00,Home,Awaiting care package
+752,895,2026-01-17 10:00:00,Home,None recorded
+753,896,2026-02-08 12:00:00,Home,Transport
+754,897,2026-01-29 02:00:00,Care facility,None recorded
+755,899,2026-03-26 17:00:00,Home,Awaiting care package
+756,900,2026-03-04 10:00:00,Home,Awaiting care package
+757,901,2026-04-01 04:00:00,Home,None recorded
+758,902,2026-02-13 01:00:00,Home,None recorded
+759,903,2026-03-21 07:00:00,Home,None recorded
+760,904,2026-01-26 10:00:00,Care facility,Awaiting care package
+761,905,2026-03-17 09:00:00,Home,Transport
+762,906,2026-03-06 22:00:00,Another hospital,None recorded
+763,907,2026-01-07 11:00:00,Home,Awaiting care package
+764,908,2026-03-13 00:00:00,Home,None recorded
+765,909,2026-02-15 03:00:00,Home,None recorded
+766,910,2026-01-15 00:00:00,Home,Medication
+767,911,2026-03-28 05:00:00,Home,None recorded
+768,912,2026-02-25 07:00:00,Home,Awaiting care package
+769,913,2026-03-04 14:00:00,Home,None recorded
+770,914,2026-03-02 22:00:00,Home,None recorded
+771,915,2026-01-11 03:00:00,Home,None recorded
+772,916,2026-02-07 21:00:00,Home,None recorded
+773,917,2026-03-16 03:00:00,Home,None recorded
+774,918,2026-02-04 11:00:00,Home,Awaiting care package
+775,919,2026-03-28 22:00:00,Home,None recorded
+776,920,2026-02-03 14:00:00,Care facility,None recorded
+777,921,2026-02-14 08:00:00,Care facility,None recorded
+778,922,2026-02-24 01:00:00,Home,None recorded
+779,923,2026-01-11 16:00:00,Home,None recorded
+780,924,2026-03-21 01:00:00,Home,Transport
+781,925,2026-01-18 04:00:00,Home,Transport
+782,926,2026-02-22 05:00:00,Care facility,None recorded
+783,927,2026-03-25 16:00:00,Home,None recorded
+784,928,2026-04-08 10:00:00,Care facility,None recorded
+785,931,2026-02-24 22:00:00,Home,None recorded
+786,933,2026-02-05 12:00:00,Another hospital,Medication
+787,934,2026-03-02 09:00:00,Home,None recorded
+788,935,2026-03-28 02:00:00,Home,Other
+789,937,2026-03-18 23:00:00,Another hospital,None recorded
+790,938,2026-03-23 22:00:00,Home,Awaiting care package
+791,939,2026-03-26 12:00:00,Home,Transport
+792,940,2026-02-21 01:00:00,Home,Transport
+793,941,2026-04-09 16:00:00,Care facility,Transport
+794,942,2026-02-24 12:00:00,Care facility,None recorded
+795,943,2026-03-11 20:00:00,Home,Awaiting care package
+796,944,2026-03-29 20:00:00,Home,None recorded
+797,945,2026-01-09 21:00:00,Home,None recorded
+798,947,2026-03-23 23:00:00,Home,None recorded
+799,948,2026-04-04 17:00:00,Home,None recorded
+800,949,2026-03-16 13:00:00,Home,Medication
+801,950,2026-01-19 01:00:00,Home,None recorded
+802,951,2026-01-29 04:00:00,Home,None recorded
+803,954,2026-02-18 08:00:00,Home,None recorded
+804,957,2026-03-29 19:00:00,Home,Transport
+805,959,2026-04-07 12:00:00,Home,Awaiting care package
+806,960,2026-02-17 14:00:00,Home,Other
+807,962,2026-03-04 07:00:00,Home,None recorded
+808,964,2026-01-31 03:00:00,Care facility,None recorded
+809,965,2026-01-19 01:00:00,Home,None recorded
+810,966,2026-03-10 19:00:00,Care facility,None recorded
+811,967,2026-02-08 22:00:00,Home,Transport
+812,968,2026-02-04 15:00:00,Care facility,Other
+813,969,2026-01-14 12:00:00,Home,None recorded
+814,970,2026-03-26 15:00:00,Home,None recorded
+815,971,2026-02-07 14:00:00,Home,Transport
+816,972,2026-02-15 08:00:00,Home,None recorded
+817,974,2026-02-28 21:00:00,Home,Transport
+818,975,2026-02-14 08:00:00,Home,None recorded
+819,977,2026-02-06 00:00:00,Home,None recorded
+820,978,2026-01-30 16:00:00,Home,None recorded
+821,979,2026-03-24 15:00:00,Care facility,None recorded
+822,980,2026-02-19 12:00:00,Home,Transport
+823,981,2026-04-12 13:00:00,Home,None recorded
+824,983,2026-03-19 01:00:00,Another hospital,None recorded
+825,984,2026-02-22 08:00:00,Home,Other
+826,985,2026-03-20 08:00:00,Home,None recorded
+827,986,2026-01-18 00:00:00,Care facility,None recorded
+828,987,2026-02-19 21:00:00,Another hospital,Other
+829,989,2026-01-12 17:00:00,Home,None recorded
+830,990,2026-01-26 10:00:00,Home,Awaiting care package
+831,991,2026-01-16 21:00:00,Home,None recorded
+832,992,2026-02-27 17:00:00,Care facility,Medication
+833,993,2026-02-25 17:00:00,Care facility,None recorded
+834,994,2026-02-24 04:00:00,Home,None recorded
+835,995,2026-01-13 22:00:00,Care facility,Other
+836,997,2026-04-03 22:00:00,Home,None recorded
+837,998,2026-01-10 18:00:00,Home,None recorded
+838,999,2026-03-21 20:00:00,Home,None recorded
+839,1000,2026-02-08 12:00:00,Home,None recorded
+840,1001,2026-01-20 17:00:00,Another hospital,None recorded
+841,1002,2026-01-11 13:00:00,Home,None recorded
+842,1003,2026-01-10 03:00:00,Home,None recorded
+843,1004,2026-02-16 08:00:00,Home,Other
+844,1005,2026-02-16 19:00:00,Home,Awaiting care package
+845,1006,2026-03-01 22:00:00,Home,Other
+846,1007,2026-01-18 07:00:00,Another hospital,None recorded
+847,1008,2026-03-02 20:00:00,Home,None recorded
+848,1009,2026-03-17 13:00:00,Home,None recorded
+849,1010,2026-01-13 19:00:00,Home,None recorded
+850,1011,2026-03-09 18:00:00,Home,None recorded
+851,1012,2026-01-23 16:00:00,Another hospital,Awaiting care package
+852,1014,2026-03-05 12:00:00,Home,Transport
+853,1015,2026-04-01 09:00:00,Care facility,None recorded
+854,1016,2026-02-28 19:00:00,Home,None recorded
+855,1019,2026-02-03 10:00:00,Home,None recorded
+856,1020,2026-01-31 11:00:00,Another hospital,None recorded
+857,1023,2026-01-11 00:00:00,Care facility,None recorded
+858,1024,2026-02-08 13:00:00,Home,Medication
+859,1025,2026-01-25 17:00:00,Home,None recorded
+860,1027,2026-03-04 08:00:00,Care facility,None recorded
+861,1028,2026-02-17 17:00:00,Home,Awaiting care package
+862,1030,2026-01-15 20:00:00,Another hospital,Medication
+863,1031,2026-02-13 05:00:00,Home,Awaiting care package
+864,1032,2026-01-09 09:00:00,Home,None recorded
+865,1033,2026-02-06 22:00:00,Home,None recorded
+866,1034,2026-03-05 23:00:00,Home,Transport
+867,1035,2026-04-10 18:00:00,Home,Awaiting care package
+868,1036,2026-02-03 17:00:00,Home,Other
+869,1037,2026-02-02 18:00:00,Another hospital,None recorded
+870,1038,2026-03-04 06:00:00,Home,Transport
+871,1040,2026-02-05 13:00:00,Another hospital,None recorded
+872,1041,2026-03-28 10:00:00,Home,None recorded
+873,1042,2026-02-08 07:00:00,Home,None recorded
+874,1043,2026-03-11 13:00:00,Home,None recorded
+875,1044,2026-01-21 21:00:00,Home,None recorded
+876,1046,2026-04-07 12:00:00,Home,None recorded
+877,1047,2026-02-12 00:00:00,Home,Transport
+878,1048,2026-01-15 10:00:00,Home,Transport
+879,1049,2026-03-21 11:00:00,Home,None recorded
+880,1050,2026-01-26 10:00:00,Home,Transport
+881,1051,2026-01-11 23:00:00,Home,None recorded
+882,1053,2026-02-08 08:00:00,Home,None recorded
+883,1054,2026-01-23 10:00:00,Home,Other
+884,1055,2026-03-31 19:00:00,Home,None recorded
+885,1056,2026-02-05 06:00:00,Care facility,None recorded
+886,1058,2026-01-28 15:00:00,Care facility,Transport
+887,1059,2026-02-24 07:00:00,Home,None recorded
+888,1061,2026-03-20 04:00:00,Home,None recorded
+889,1062,2026-02-13 00:00:00,Care facility,Awaiting care package
+890,1063,2026-03-03 10:00:00,Another hospital,Transport
+891,1064,2026-03-22 15:00:00,Home,None recorded
+892,1066,2026-03-19 06:00:00,Home,Medication
+893,1067,2026-02-14 23:00:00,Home,None recorded
+894,1068,2026-02-27 19:00:00,Another hospital,None recorded
+895,1069,2026-04-10 02:00:00,Home,None recorded
+896,1070,2026-02-01 09:00:00,Home,None recorded
+897,1071,2026-03-06 07:00:00,Care facility,Other
+898,1073,2026-02-16 06:00:00,Home,Awaiting care package
+899,1074,2026-04-02 22:00:00,Home,None recorded
+900,1075,2026-02-13 12:00:00,Home,None recorded
+901,1076,2026-03-23 06:00:00,Home,None recorded
+902,1078,2026-01-11 15:00:00,Home,Transport
+903,1080,2026-03-18 19:00:00,Home,None recorded
+904,1082,2026-03-17 08:00:00,Home,Medication
+905,1084,2026-04-02 21:00:00,Home,None recorded
+906,1085,2026-02-07 10:00:00,Home,None recorded
+907,1086,2026-02-01 17:00:00,Home,Other
+908,1088,2026-03-22 18:00:00,Home,Medication
+909,1090,2026-03-18 00:00:00,Home,None recorded
+910,1091,2026-02-13 05:00:00,Home,None recorded
+911,1092,2026-03-23 02:00:00,Home,Medication
+912,1093,2026-01-31 19:00:00,Home,Transport
+913,1094,2026-03-16 09:00:00,Home,Transport
+914,1095,2026-02-24 17:00:00,Home,Transport
+915,1097,2026-04-03 10:00:00,Home,Other
+916,1098,2026-02-05 08:00:00,Care facility,None recorded
+917,1099,2026-01-20 13:00:00,Home,None recorded
+918,1101,2026-03-10 12:00:00,Care facility,None recorded
+919,1102,2026-02-11 16:00:00,Home,Awaiting care package
+920,1103,2026-01-14 14:00:00,Another hospital,None recorded
+921,1104,2026-03-28 08:00:00,Home,None recorded
+922,1106,2026-01-17 20:00:00,Home,Transport
+923,1108,2026-03-05 09:00:00,Home,None recorded
+924,1109,2026-04-11 15:00:00,Home,Other
+925,1111,2026-04-04 18:00:00,Home,None recorded
+926,1112,2026-03-24 13:00:00,Home,Transport
+927,1113,2026-03-26 09:00:00,Home,None recorded
+928,1114,2026-03-04 09:00:00,Home,None recorded
+929,1115,2026-02-26 00:00:00,Home,None recorded
+930,1116,2026-03-15 08:00:00,Home,None recorded
+931,1117,2026-04-07 22:00:00,Home,Awaiting care package
+932,1118,2026-01-15 11:00:00,Another hospital,Awaiting care package
+933,1119,2026-01-27 06:00:00,Home,None recorded
+934,1120,2026-02-17 21:00:00,Home,None recorded
+935,1121,2026-02-06 10:00:00,Home,Other
+936,1122,2026-02-18 20:00:00,Home,None recorded
+937,1123,2026-01-31 00:00:00,Home,Medication
+938,1126,2026-01-30 10:00:00,Care facility,None recorded
+939,1128,2026-01-23 14:00:00,Home,None recorded
+940,1129,2026-03-27 17:00:00,Another hospital,None recorded
+941,1132,2026-02-23 08:00:00,Home,None recorded
+942,1133,2026-01-15 15:00:00,Another hospital,Medication
+943,1134,2026-03-22 19:00:00,Home,Transport
+944,1135,2026-01-13 20:00:00,Home,Transport
+945,1136,2026-02-18 08:00:00,Home,Transport
+946,1137,2026-01-23 16:00:00,Home,Transport
+947,1138,2026-03-28 03:00:00,Home,Awaiting care package
+948,1139,2026-02-25 16:00:00,Home,Transport
+949,1141,2026-01-30 13:00:00,Home,Awaiting care package
+950,1142,2026-03-20 10:00:00,Home,None recorded
+951,1144,2026-03-10 20:00:00,Another hospital,None recorded
+952,1145,2026-04-04 05:00:00,Home,None recorded
+953,1146,2026-02-03 22:00:00,Home,None recorded
+954,1147,2026-03-16 17:00:00,Home,None recorded
+955,1148,2026-02-05 20:00:00,Home,None recorded
+956,1149,2026-04-07 16:00:00,Care facility,None recorded
+957,1150,2026-03-26 22:00:00,Another hospital,None recorded
+958,1151,2026-02-08 05:00:00,Home,Awaiting care package
+959,1152,2026-02-04 18:00:00,Home,Awaiting care package
+960,1153,2026-01-12 10:00:00,Another hospital,None recorded
+961,1154,2026-03-15 18:00:00,Home,Other
+962,1156,2026-01-21 01:00:00,Care facility,Other
+963,1157,2026-03-28 10:00:00,Home,Medication
+964,1158,2026-03-14 23:00:00,Home,None recorded
+965,1159,2026-02-26 11:00:00,Home,None recorded
+966,1160,2026-02-02 02:00:00,Home,None recorded
+967,1161,2026-03-10 18:00:00,Care facility,Transport
+968,1162,2026-02-24 11:00:00,Home,Transport
+969,1163,2026-03-17 00:00:00,Home,Transport
+970,1164,2026-03-02 18:00:00,Home,Awaiting care package
+971,1165,2026-01-12 09:00:00,Home,Other
+972,1166,2026-01-24 07:00:00,Another hospital,None recorded
+973,1167,2026-02-16 06:00:00,Home,Medication
+974,1168,2026-02-21 05:00:00,Home,Awaiting care package
+975,1169,2026-02-08 11:00:00,Home,None recorded
+976,1170,2026-03-26 03:00:00,Another hospital,Awaiting care package
+977,1173,2026-02-16 12:00:00,Home,None recorded
+978,1174,2026-04-06 08:00:00,Home,None recorded
+979,1176,2026-03-16 14:00:00,Home,Other
+980,1177,2026-03-20 20:00:00,Home,None recorded
+981,1178,2026-02-28 21:00:00,Home,None recorded
+982,1179,2026-03-03 20:00:00,Home,Other
+983,1180,2026-02-28 16:00:00,Home,None recorded
+984,1181,2026-01-07 10:00:00,Care facility,None recorded
+985,1182,2026-04-06 08:00:00,Home,None recorded
+986,1183,2026-03-31 08:00:00,Home,None recorded
+987,1185,2026-04-03 08:00:00,Care facility,None recorded
+988,1186,2026-02-18 05:00:00,Home,None recorded
+989,1187,2026-01-14 02:00:00,Home,Awaiting care package
+990,1188,2026-03-24 02:00:00,Care facility,None recorded
+991,1189,2026-02-18 20:00:00,Home,None recorded
+992,1191,2026-01-29 04:00:00,Care facility,None recorded
+993,1192,2026-02-18 02:00:00,Home,None recorded
+994,1193,2026-03-09 01:00:00,Home,Transport
+995,1194,2026-01-27 08:00:00,Another hospital,None recorded
+996,1195,2026-04-09 16:00:00,Home,None recorded
+997,1196,2026-03-09 18:00:00,Home,None recorded
+998,1198,2026-03-17 16:00:00,Another hospital,None recorded
+999,1199,2026-03-28 01:00:00,Another hospital,None recorded
+1000,1200,2026-02-04 15:00:00,Care facility,None recorded

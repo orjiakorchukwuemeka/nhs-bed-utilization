@@ -1,0 +1,26 @@
+table_name,column_name,data_type,description
+dim_ward,ward_id,INTEGER,Unique identifier for each ward
+dim_ward,ward_name,VARCHAR(100),Name of the ward
+dim_ward,specialty,VARCHAR(100),Clinical specialty of the ward
+dim_bed,bed_id,INTEGER,Unique identifier for each bed
+dim_bed,ward_id,INTEGER,Identifier of the ward containing the bed
+dim_bed,bed_type,VARCHAR(50),Category of bed
+fact_bed_daily,bed_id,INTEGER,Bed being recorded
+fact_bed_daily,record_date,DATE,Date of the bed record
+fact_bed_daily,is_staffed,BOOLEAN,Whether the bed is staffed
+fact_bed_daily,is_occupied,BOOLEAN,Whether the bed is occupied
+fact_admission,admission_id,INTEGER,Unique admission episode identifier
+fact_admission,ward_id,INTEGER,Ward where the admission occurred
+fact_admission,admission_datetime,TIMESTAMP,Date and time of admission
+fact_admission,admission_type,VARCHAR(50),Type of admission
+fact_discharge,discharge_id,INTEGER,Unique discharge record identifier
+fact_discharge,admission_id,INTEGER,Admission episode associated with discharge
+fact_discharge,discharge_datetime,TIMESTAMP,Date and time of discharge
+fact_discharge,discharge_destination,VARCHAR(100),Destination after discharge
+fact_discharge,delay_reason,VARCHAR(150),Recorded discharge delay reason if applicable
+fact_patient_flow,event_id,INTEGER,Unique patient flow event identifier
+fact_patient_flow,admission_id,INTEGER,Admission episode associated with the event
+fact_patient_flow,from_ward_id,INTEGER,Previous ward if applicable
+fact_patient_flow,to_ward_id,INTEGER,Destination ward if applicable
+fact_patient_flow,event_datetime,TIMESTAMP,Date and time of the event
+fact_patient_flow,event_type,VARCHAR(50),Type of movement or flow event
